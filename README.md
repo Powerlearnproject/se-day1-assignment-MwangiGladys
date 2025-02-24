@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 **Explain what software engineering is and discuss its importance in the technology industry.**
+
    Software engineering- is the disciplined application of engineering principles to software development.
       *Importance of Software Engineering in the technology*
  1.Ensures High-Quality Software
@@ -39,7 +40,9 @@ The Waterfall Model (proposed by Winston Royce in 1970) became the first widely 
 The Agile Manifesto was introduced in 2001, emphasizing flexibility, collaboration, and iterative development over rigid processes.
 Agile replaced traditional Waterfall methods in many industries, leading to the rise of Scrum, Kanban, and DevOps.
 This milestone significantly improved software delivery speed, customer satisfaction, and adaptability to change.
+
 **List and briefly explain the phases of the Software Development Life Cycle.**
+
 1.Requirement Analysis
   Involves gathering and defining the functional and non-functional requirements of the software.
   Stakeholders, including clients and developers, collaborate to ensure all needs are documented.
@@ -69,6 +72,7 @@ Bug fixes, updates, and enhancements are made based on user feedback.
 Ensures long-term software stability and performance improvements.
 
 **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**
+
 Waterfall follows a sequential, phase-based approach where each stage (e.g., requirements, design, coding, testing, deployment) must be completed before moving to the next while  Agile, is iterative and incremental, delivering working software in smaller cycles called sprints.
 
 Waterfall is rigid—once a phase is completed, making changes is difficult and costly while Agile is highly flexible, allowing teams to adapt to changes even in later stages of development.
@@ -91,6 +95,7 @@ E-commerce platforms that need frequent updates (e.g., Amazon, Shopify).
 Startups and software products requiring continuous iteration and innovation.
 
 **Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.**
+
 1. Software Developer
    A Software Developer is responsible for designing, developing, testing, and maintaining software applications. 
 
@@ -122,6 +127,7 @@ Startups and software products requiring continuous iteration and innovation.
     -Monitoring project progress and addressing risks or roadblocks.
 
 **Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**
+
 1. Integrated Development Environments (IDEs)
 An Integrated Development Environment (IDE) is a software application that provides comprehensive tools for writing, testing, and debugging code in one place. It enhances productivity and efficiency in software development.
 
@@ -153,6 +159,7 @@ Bitbucket: A Git repository hosting service that integrates well with Atlassian 
 Apache Subversion (SVN): A centralized version control system, commonly used in legacy projects
 
 **What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**
+
 1. Debugging and Fixing Bugs
 Challenge: Bugs can be difficult to locate and time-consuming to fix, especially in complex systems.
 Solution: Use debugging tools, write unit tests, implement logging, and follow a structured debugging approach (e.g., divide and conquer).
@@ -164,6 +171,7 @@ Challenge: The fast-paced tech industry makes it hard to stay updated with new f
 Solution: Dedicate time to learning through courses, tech blogs, conferences, and hands-on projects. Participate in coding communities and open-source projects.
 
 **Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.**
+
 1. Unit Testing
  Definition: Testing individual components (functions, methods, or modules) of a program in isolation.
  Purpose: Ensures that each unit works as expected before integration.
@@ -213,6 +221,7 @@ Reduces the risk of project failure by verifying real-world usability.
 #Part 2: Introduction to AI and Prompt Engineering
 
 **Define prompt engineering and discuss its importance in interacting with AI models.**
+
 What is Prompt Engineering?
 Prompt Engineering is the practice of designing and refining prompts to effectively communicate with AI models and generate desired outputs. It involves structuring queries in a way that maximizes the accuracy, relevance, and quality of AI-generated responses.
 
@@ -236,6 +245,7 @@ Important in AI applications like chatbots, virtual assistants, and automated de
 
 
 **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
+
 Example of a Vague Prompt & Its Improved Version
 a) Vague Prompt:
 "Tell me about marketing."
